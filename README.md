@@ -45,8 +45,10 @@ A React-based Smart Student ID Generator built for the Unity Internship Assignme
 ---
 
 ##  Walkthrough
+ **Live Demo**: [https://smart-student-id-generator-eight.vercel.app/](#)  
  **Video Demo**: [https://drive.google.com/file/d/1r8liAKHtmPHpkql37cRrX5c1su4cAGIa/view?usp=sharing](#)  
-*(Replace # with your actual video link)*
+![image](https://github.com/user-attachments/assets/df7d90b9-ab05-4c8a-a956-064b141dd16f)
+
 
 ---
 
