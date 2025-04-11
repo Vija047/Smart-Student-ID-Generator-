@@ -52,7 +52,7 @@ A React-based Smart Student ID Generator built for the Unity Internship Assignme
 
 ---
 
-## 🧠 Thought Process
+##  Thought Process
 
 1. **Component Structure**:
    - Form Component
@@ -76,7 +76,7 @@ A React-based Smart Student ID Generator built for the Unity Internship Assignme
 
 ---
 
-## 📝 Instructions to Run
+## Instructions to Run
 
 1. **Open the project on Replit or locally**  
 2. Fill the form and click **Submit**  
@@ -87,5 +87,5 @@ A React-based Smart Student ID Generator built for the Unity Internship Assignme
 
 ---
 
-## 📂 Folder Structure (Simplified)
+##  Folder Structure (Simplified)
 
